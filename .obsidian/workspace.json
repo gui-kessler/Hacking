@@ -11,10 +11,14 @@
             "id": "87bf64ea2f1b223c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/Recon/Fuzzing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fuzzing"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.5
   },
   "right": {
     "id": "c95e4d810b77aa59",
@@ -163,9 +167,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "87bf64ea2f1b223c",
+  "active": "b4bad212b7732189",
   "lastOpenFiles": [
     "Teoria/Vulnerabilidades/CRLF Injection.md",
+    "Teoria/Recon/Fuzzing.md",
+    "Untitled.md",
+    "Teoria/Recon",
     "Teoria/Vulnerabilidades",
     "Welcome.md",
     "Teoria",
